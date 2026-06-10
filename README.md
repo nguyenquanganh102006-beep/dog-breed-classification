@@ -191,7 +191,6 @@ Tài liệu phụ:
 - [Hướng dẫn dữ liệu](docs/DATASET.md)
 - [Hướng dẫn huấn luyện](docs/TRAINING.md)
 - [Hướng dẫn chạy web app](docs/APP.md)
-- [Checklist GitHub](docs/GITHUB.md)
 
 ## Cài Đặt Môi Trường
 
