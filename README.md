@@ -328,22 +328,6 @@ python scripts/export_app_bundle.py \
 
 Folder này chỉ cần code inference, checkpoint, label file và một số ảnh mẫu; không cần toàn bộ dataset train.
 
-## Chính Sách Lưu Trữ Trên Git
-
-Các file lớn được loại khỏi Git:
-
-```text
-data/
-artifacts/
-checkpoint/
-*.csv
-*.pkl
-*.pt
-*.pth
-```
-
-Nếu muốn chia sẻ checkpoint đã train, nên dùng GitHub Releases, Google Drive, Hugging Face hoặc Git LFS.
-
 ## Tài Liệu Tham Khảo
 
 - Tolstikhin, I. O., et al. "MLP-Mixer: An all-MLP Architecture for Vision." NeurIPS, 2021.
