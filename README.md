@@ -58,8 +58,6 @@ Kết quả validation của checkpoint MLP-Mixer tốt nhất:
 |---|---:|---:|
 | MLP-Mixer | 73.46% | 87.12% |
 
-Báo cáo chi tiết nằm tại: [docs/report.pdf](docs/report.pdf)
-
 ## Dữ Liệu
 
 Dữ liệu ảnh được thu thập cho 10 giống chó. Sau khi thu thập, dữ liệu được làm sạch bằng cách loại bỏ:
